@@ -10,7 +10,7 @@ If you're here, you probably found me through my portfolio—thanks for stopping
 ### Ethereon
 [https://github.com/TheServerFinder/Computer-Science/blob/main/Ethereon.py](https://github.com/TheServerFinder/Computer-Science/blob/main/Ethereon.py)
 
-### Slide Test
+### Sliding Game
 [https://www.roblox.com/games/76058902712994/Slide-Test#!/game-instances](https://www.roblox.com/games/76058902712994/Slide-Test#!/game-instances)
 
 ---
